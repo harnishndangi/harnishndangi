@@ -94,6 +94,52 @@
       <br/><br/>
       <a href="#">View Deployment</a>
     </td>
+    <td width="50%" align="center">
+      <h3>🧠 Lumix AI</h3>
+      <p><i>Permission-Safe Enterprise RAG</i></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      </p>
+      <p>A deterministic AI decision engine solving "Authorization Hallucination" with strict ACL enforcement.</p>
+      <a href="LINK_TO_LUMIX_REPO"><b>View System Node</b></a>
+    </td>
+    <td width="50%" align="center">
+      <h3>📈 VyaparMarg</h3>
+      <p><i>B2B Business OS (BizConnect AI)</i></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI_Insights-8A2BE2?style=flat-square" />
+      </p>
+      <p>Unified workflow platform for distributors optimizing inventory, orders, and network management.</p>
+      <a href="LINK_TO_VYAPARMARG_REPO"><b>View Platform</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🍽️ Cravelya</h3>
+      <p><i>Gamified Dining Ecosystem</i></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      </p>
+      <p>Multi-city platform connecting customers & restaurants via challenges, rewards, and real-time analytics.</p>
+      <a href="LINK_TO_CRAVELYA_REPO"><b>View App Logic</b></a>
+    </td>
+    <td width="50%" align="center">
+      <h3>📚 Study Buddy</h3>
+      <p><i>Collaborative Learning Hub</i></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+        <img src="https://img.shields.io/badge/EdTech-FF4F00?style=flat-square" />
+      </p>
+      <p>Real-time resource sharing and study group platform designed for peer-to-peer academic growth.</p>
+      <a href="LINK_TO_STUDYBUDDY_REPO"><b>View Portal</b></a>
+    </td>
   </tr>
 </table>
 
